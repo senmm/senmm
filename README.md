@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-[![Senpot's github stats](https://github-readme-stats.vercel.app/api?username=senpot)](https://github.com/senpot/github-readme-stats)
+[![Senpot's github stats](https://github-readme-stats.vercel.app/api?username=senpot)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **senpot/senpot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
