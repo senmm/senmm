@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Senpot 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=senpot)](https://github.com/senpot/github-readme-stats)
 <!--
